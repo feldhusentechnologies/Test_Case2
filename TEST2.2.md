@@ -17,11 +17,11 @@
 * Modified Date:
   * 10-30-2017
 * Requirements Covered:
-  * 
+  * Windows pc, HDMI, HDTV
 * Test Description/Purpose:
-  * Description
+  * Graphics test
 * Pre-Test Conditions:
-  * Description
+  * 
 ## Test Steps: 
 | # | Description | Expected Result | Check (√) |
 | --- | --- | --- | --- |
