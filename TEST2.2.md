@@ -21,7 +21,7 @@
 * Test Description/Purpose:
   * Graphics test
 * Pre-Test Conditions:
-  * 
+  * hook computer to tv for larger screen
 ## Test Steps: 
 | # | Description | Expected Result | Check (√) |
 | --- | --- | --- | --- |
