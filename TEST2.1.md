@@ -3,47 +3,40 @@
 ## Test Details
 
 * Test Case ID:
-  * #Number
+  * #101
 * Test Case Name:
-  * #Number
+  * PLEX 1
 * Component: 
-  * Description
+  * Game Engine
 * Test Case Designer:
-  * Name
+  * Cameron Feldhusen
 * Creation Date:
-  * Date
+  * 01-17-2017
 * Modified By:
-  * Name
+  * Bob Barker
 * Modified Date:
-  * Date
+  * 10-17-2017
 * Requirements Covered:
-  * Description
+  * Windows PC, .exe game file
 * Test Description/Purpose:
-  * Description
+  * Test if game engine starts and runs correctly
 * Pre-Test Conditions:
-  * Description
+  * Turn on system
 ## Test Steps: 
 | # | Description | Expected Result | Check (√) |
 | --- | --- | --- | --- |
-| 1 | | | |			
-| 2 | | | |			
-| 3 | | | |			
-| 4 | | | |			
-| 5 | | | |			
-| 6 | | | |			
-| 7 | | | |			
-| 8 | | | |			
-| 9 | | | |			
-| 10 | | | |			
+| 1 |get game file|download .exe file|√|			
+| 2 |prompt user to play story mode|story mode prompts user to create or load game, |√|			
+| 3 |prompt user to play build mode|build mode prompts user to to login to online or create account|√|			
+| 4 |login|login works|X|			
 
 ## Overall Test Status:
-
-
+Game engine initilizes, login fails
 
 ## Run History:
 | # |	Run Date |	Run By |	Results |
 | --- | --- | --- | --- |
-| 1 | | | |			
-| 2 | | | |			
-| 3 | | | |			
+| 1 |10-1-2017|John Carter|pass|			
+| 2 |10-10-2017|Cameron Feldhusen|pass |			
+| 3 |10-13-2017|Bob Barker |fail|			
 
