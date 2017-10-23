@@ -5,23 +5,23 @@
 * Test Case ID:
   * #103
 * Test Case Name:
-  * #
+  * #TEST 3
 * Component: 
-  * Description
+  * Music
 * Test Case Designer:
-  * Name
+  * Cameron Feldhusen
 * Creation Date:
-  * Date
+  * 10-19-2017
 * Modified By:
-  * Name
+  * Saitama 
 * Modified Date:
-  * Date
+  * 10-24-2017
 * Requirements Covered:
-  * Description
+  * Windows PC, speakers
 * Test Description/Purpose:
-  * Description
+  * Music plays, stops, raises/lowers volume when told 
 * Pre-Test Conditions:
-  * Description
+  * connect speakers to computer
 ## Test Steps: 
 | # | Description | Expected Result | Check (√) |
 | --- | --- | --- | --- |
@@ -30,11 +30,6 @@
 | 3 | | | |			
 | 4 | | | |			
 | 5 | | | |			
-| 6 | | | |			
-| 7 | | | |			
-| 8 | | | |			
-| 9 | | | |			
-| 10 | | | |			
 
 ## Overall Test Status:
 
