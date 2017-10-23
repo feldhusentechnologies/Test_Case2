@@ -21,14 +21,12 @@
 * Test Description/Purpose:
   * Graphics test
 * Pre-Test Conditions:
-  * hook computer to tv for larger screen
+  * Hook computer to tv for larger screen
 ## Test Steps: 
 | # | Description | Expected Result | Check (√) |
 | --- | --- | --- | --- |
-| 1 | | | |			
-| 2 | | | |			
-| 3 | | | |			
-| 4 | | | |			
+| 1 |Load graphics on Story mode|Graphics Load| √ |			
+| 2 |Load graphics on Build mode|Graphics Load| √ |					
 ## Overall Test Status:
 
 
@@ -36,7 +34,7 @@
 ## Run History:
 | # |	Run Date |	Run By |	Results |
 | --- | --- | --- | --- |
-| 1 |10/23| | |			
-| 2 |10/26| | |			
-| 3 |10/30| | |			
+| 1 |10/23|Cameron Feldhusen|Pass|			
+| 2 |10/26|Jim Jones|Pass|			
+| 3 |10/30|Karen|Pass|
 
