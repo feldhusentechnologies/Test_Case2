@@ -29,7 +29,7 @@
 | 2 |Load graphics on Build mode|Graphics Load| √ |					
 ## Overall Test Status:
 
-
+Graphics load, formatted good.
 
 ## Run History:
 | # |	Run Date |	Run By |	Results |
