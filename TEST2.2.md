@@ -5,7 +5,7 @@
 * Test Case ID:
   * #102
 * Test Case Name:
-  * #TEST 2
+  * #PLEX 2
 * Component: 
   * Graphics
 * Test Case Designer:
