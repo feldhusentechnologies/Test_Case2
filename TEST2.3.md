@@ -5,7 +5,7 @@
 * Test Case ID:
   * #103
 * Test Case Name:
-  * #TEST 3
+  * #PLEX 3
 * Component: 
   * Music
 * Test Case Designer:
